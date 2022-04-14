@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "observer",
+        "decorator",
+        "factory",
+        "iterator",
+        "singleton"
+    ],
+    "git.ignoreLimitWarning": true
+}
